@@ -1,8 +1,11 @@
 # FixSight
 Next gen FIX protocol log viewer.
-Built on [Electron](https://electron.atom.io/).
 
-[![Electron Logo](https://electron.atom.io/images/electron-logo.svg=100X20)](https://electron.atom.io/)
+Built on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://electron.atom.io/">
+<img src="https://electron.atom.io/images/electron-logo.svg" alt="alt text" height="25">
+</a>
+
 
 ## Resources for Learning Electron
 Just for the start this is here delete this in the future 
