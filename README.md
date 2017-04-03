@@ -30,7 +30,7 @@ Just for the start this is here delete this in the future
 - Create collaboration guide.
 - Create a wiki
 - Create api\libs?
-
+- CI
 
 ## Table of contents
 - [Background](#background)

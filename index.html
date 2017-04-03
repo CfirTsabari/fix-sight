@@ -4,35 +4,45 @@
 <head>
     <meta charset="UTF-8">
     <title>Fix Sight</title>
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="photon/dist/css/photon.min.css">
 </head>
 
 <body>
-    <h1>Fix Sight!</h1>
-    <!-- All of the Node.js APIs are available in this renderer process. -->
-    We are using Node.js
-    <script>
-        document.write(process.versions.node)
-
-    </script>, Chromium
-    <script>
-        document.write(process.versions.chrome)
-
-    </script>, Electron
-    <script>
-        document.write(process.versions.electron)
-
-    </script>, and this app version is
-    <script>
-        document.write(require('electron').remote.app.getVersion())
-
-    </script>.
-
+    <div class="window">
+        <header class="toolbar toolbar-header">
+            <h1 class="title">Fix Sight!</h1>
+        </header>
+        <div class="window-content">
+            <div class="pane-group">
+                <div class="pane-sm sidebar"></div>
+                <div class="pane">
+                    We are using Node.js
+                    <script>
+                        document.write(process.versions.node)
+                    </script>, Chromium
+                    <script>
+                        document.write(process.versions.chrome)
+                    </script>, Electron
+                    <script>
+                        document.write(process.versions.electron)
+                    </script>, and this app version is
+                    <script>
+                        document.write(require('electron').remote.app.getVersion())
+                    </script>.
+                </div>
+            </div>
+        </div>
+        <footer class="toolbar toolbar-footer">
+            <h1 class="title">Footer</h1>
+        </footer>
+    </div>
 
 </body>
 
 <script>
-    // You can also require other files to run in this process
-    require('./renderer.js')
+                        // You can also require other files to run in this process
+                        require('./renderer.js')
 
 </script>
 
