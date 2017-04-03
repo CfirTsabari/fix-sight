@@ -2,6 +2,8 @@
 Next gen FIX protocol log viewer.
 Built on [Electron](https://electron.atom.io/).
 
+[![Electron Logo](https://electron.atom.io/images/electron-logo.svg=100X20)](https://electron.atom.io/)
+
 ## Resources for Learning Electron
 Just for the start this is here delete this in the future 
 
