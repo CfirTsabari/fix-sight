@@ -38,7 +38,7 @@ Just for the start this is here delete this in the future
 - [License](#license)
 ## Background
 During my work at a [Fingenom](https://www.linkedin.com/company-beta/3315906/) i have started using the FIX protocol, which is nothing less than a poetic protocol where tags are many and order is none to found.
-While reading formating and parsing vast logs file , i have reached to one epic conclusion , i should create an amazing fix viewer, a viewer that will put all others viewer to shame.
+While reading, formating and parsing vast logs file , i have reached to one epic conclusion , i should create an amazing fix viewer, a viewer that will put all others viewer to shame.
 Why? you are probably asking , well for the following two reasons ordered by importance:
 1. I was astonished by the beauty of electron, and creating an app using this framework sound like pure fun.
 2. All the current viewers i was using during this work was horrible.
