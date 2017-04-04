@@ -24,7 +24,7 @@
             "args": [
                 "start"
             ],
-            "isBuildCommand": true,
+            "isBuildCommand": true
         }
     ]
 }
